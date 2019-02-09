@@ -18,7 +18,7 @@ spec:
       valueFiles:
       - values.yaml
     path: redis
-    repoURL: git@github.com:lcostea/argocd-helm-deployment.git
+    repoURL: https://github.com/lcostea/argocd-helm-deployment.git
     targetRevision: master
     valuesFiles:
     - values.yaml
